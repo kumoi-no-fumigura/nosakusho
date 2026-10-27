@@ -6,7 +6,12 @@
  "yomi": "のうさくしょ",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論（作能論）",
+  "era": "応永30年（1423）",
+  "author": "世阿弥",
+  "desc": "能の作り方を、種・作・書の順に説いた能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
